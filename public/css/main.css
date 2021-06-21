@@ -1,0 +1,244 @@
+/*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
+
+html {
+    color: #cc9b9b;
+    background-color: #f9fafb;
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #042853;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.browserupgrade {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #322c2c;
+    padding: 0.2em 0;
+}
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.descriptif {
+    background-color: #FFFFF0;
+    color: #0d0c0a;
+    border: 2px solid #8f8d87;
+    border-radius: 5px;
+    font: 15px Arial, Helvetica, sans-serif;
+    margin: 10px 10px 0 10px;
+    padding: 5px 10px;
+    border-left: solid 2px #999;
+}
+.descriptif h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.descriptif h3 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.descriptif h4 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.descriptif p {
+    margin:0 0 8px 0; 
+}
+.descriptif ul {
+    margin: 5px 0 0 0;
+    padding-left: 20px;
+    list-style-image: url('../img/list_check.png');
+}
+.descriptif a {
+    text-decoration: none;
+    color: #362d2a;
+}
+.descriptif a:hover {
+    color: #262523;
+}
+
+#map {
+    height: 570px;
+    box-shadow: -11px -1px 5px 8px rgb(0 0 0 / 20%);
+    /* width: 500px; */
+    width: calc(100% - 0px);
+    border: 2px solid #45423c;
+    border-radius: 15px;
+    float:left;
+    margin-top: 30px;
+    /* margin-left: 90px; */
+}
+
+#FindAndGo {
+    float:left;
+    margin-top: 10px;
+    padding-left:30px;
+}
+.FaG {
+    border: 2px solid #eeebe2;
+}
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+
+}
+
+@media print,
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
+
+}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   Print styles
+   ========================================================================== */
+
+@media print {
+    *,
+    *:before,
+    *:after {
+        background: transparent !important;
+        color: #000 !important;
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    a[href^="#"]:after,
+    a[href^="javascript:"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group;
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}

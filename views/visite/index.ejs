@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>MarocanMonuments</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="favicon.png">
+    
+    <link rel="stylesheet" href="/css/normalize.min.css">
+    <!--<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-1.0.0-b1/leaflet.css" />
+    <script src="http://cdn.leafletjs.com/leaflet-1.0.0-b1/leaflet.js"></script>-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="/css/leaflet.photon.css" />
+    <link rel="stylesheet" href="/css/FindAndGo.css" />
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+    <!-- Photon search : https://github.com/komoot/leaflet.photon -->
+    <script type="text/javascript" src="/js/leaflet.photon.js"></script>
+    <script type="text/javascript" src="/js/GHUtil.js"></script>
+    <script type="text/javascript" src="/js/FindAndGo.js"></script>
+    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+
+
+    <style>
+    </style>
+</head>
+
+<body>
+    <div class="container">
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light mb-5">
+          <a class="navbar-brand" href="/visite">MaroccanMonument</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+    
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="/visite">Dashboard</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/monuments/add">Ajouter Monuments </a>
+              <li class="nav-item">
+                <a class="nav-link" href="/monuments">Monuments</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/users">Utilisateurs</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/users/add">Ajouter Utilisateurs</a>
+              </li>
+              <li class="nav-item" style="margin-left: 260px ;">
+                <a class="btn btn-outline-dark " href="/login">Déconnexion</a>
+              </li>
+              
+          </div>
+        </nav>
+    
+      </div>
+    <div class="container">
+      <h2 style="font-family: system-ui;" class="text-primary text-center m-2">
+        Welcome dans les services de monuments 
+       
+      </h2>
+        <div>
+    
+
+            <div id="map"></div>
+            <div id="FindAndGo">
+                <div class="FaG">
+                </div>
+    
+    
+    
+    
+            </div>
+            
+    
+    
+    
+        </div>
+    </div>
+    <div>
+        
+    </div>
+    
+        <% if (etudiant) { %>
+            <script>
+               var etudiant = <%- JSON.stringify(etudiant) %>;
+            </script>
+         <% } %>
+    
+    
+        <script>
+            var osmLayer = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 19,
+                attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+            });
+            var hyddaLayer = L.tileLayer('http://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png', {
+                attribution: 'Tiles courtesy of <a href="http://openstreetmap.se/" target="_blank">OpenStreetMap Sweden</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+            });
+            var dLayer = L.tileLayer('http://toolserver.org/tiles/hikebike/{z}/{x}/{y}.png', {
+                attribution: 'Tiles courtesy of <a href="http://openstreetmap.se/" target="_blank">OpenStreetMap Sweden</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+            });
+            var tLayer = L.tileLayer('http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg', {
+                attribution: 'Tiles courtesy of <a href="http://openstreetmap.se/" target="_blank">OpenStreetMap Sweden</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+            });
+
+            var map = L.map("map", {
+                layers: [hyddaLayer],
+                center: [33.23737, -8.49193],
+                zoom: 9
+            });
+            L.control.scale({ imperial: false }).addTo(map);
+    
+    
+    
+    
+            var layerControl = L.control.layers({
+                "OpenStreetMap": osmLayer,
+                "Hydda": hyddaLayer,
+                "Hikebikemap": dLayer,
+                "Watercolor ": tLayer
+            });
+            layerControl.addTo(map);
+            var greenIcon = L.icon({
+                iconUrl: '/img/arch.png',
+                //shadowUrl: 'https://leafletjs.com/examples/custom-icons/leaf-shadow.png',
+    
+                iconSize: [38, 40], // size of the icon
+                //shadowSize: [50, 64], // size of the shadow
+                //iconAnchor: [22, 94], // point of the icon which will correspond to marker's location
+                shadowAnchor: [4, 62],  // the same for the shadow
+                popupAnchor: [-3, -76] // point from which the popup should open relative to the iconAnchor
+            });
+            const marker = new Array();
+            const circle = new Array();
+            var i=0;
+            etudiant.forEach(function(e){
+            marker[i] =L.marker([e.longitude, e.latitude], {icon: greenIcon}).addTo(map);
+            var popupContent = "C'EST "+e.nom;
+    
+            marker[i].bindPopup(popupContent);
+            
+            /*marker[i].on('click', function(e) {
+               if ( L.DomUtil.get("FaG-lat").value ==e.latlng.lat) {
+                console.log("valid");
+                var outputAddress = L.DomUtil.get("FaG-address");
+                outputAddress.innerHTML = '<br>VALID<br>';
+            }else {
+                    console.log("invalid");
+                    var outputAddress = L.DomUtil.get("FaG-address");
+                    outputAddress.innerHTML = '<p>vous e'etez pas dans le monuments<p>';
+                };
+               
+              console.log(e.latlng);
+                });*/
+            marker[i].on('click', function(e) {
+            var lat2 =L.DomUtil.get("FaG-lat").value;
+            var lng2 =L.DomUtil.get("FaG-lon").value;
+            var from = L.latLng(e.latlng.lat, e.latlng.lng);
+            var to = L.latLng(lat2, lng2);
+           if ( from.distanceTo(to).toFixed(0)/1000 <= 1) {
+            console.log("valid");
+            var outputAddress = L.DomUtil.get("FaG-address");
+            outputAddress.innerHTML = '<p>Vous etes dans le monument <p>';
+            
+            map.fitBounds([[e.latlng.lat, e.latlng.lng],[lat2, lng2]]);
+            
+        }else {
+                console.log("invalid");
+                
+                //console.log([e.latlng.lat, e.latlng.lng]);
+
+                console.log(from.distanceTo(to).toFixed(0)/1000);
+                var outputAddress = L.DomUtil.get("FaG-address");
+                outputAddress.innerHTML = '<p class="text-primary">INVALID<p>'+"Vous étes loin du monument de :"+ from.distanceTo(to).toFixed(0)/1000 + ' km';
+                map.fitBounds([[e.latlng.lat, e.latlng.lng],[lat2, lng2]]);
+               
+            };
+            });
+            circle[i]=L.circle([e.longitude, e.latitude], {radius: 1000}).addTo(map);
+            var popupContent2 = "la zone d 1km autour du monument";
+            circle[i].bindPopup(popupContent2);
+            i=i+1;
+            });
+            new FindAndGo("FindAndGo", map, {
+                layerControl: layerControl,
+                graphhopperApiKey: "717128f9-8ffb-43b9-8e4b-9c703eb94076"
+    
+    
+    
+            });
+        </script>
+
+    </div>
+    
+    
+    
+
+</body>
+
+</html>

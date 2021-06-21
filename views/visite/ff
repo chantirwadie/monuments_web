@@ -1,0 +1,36 @@
+<h3>Recherche à proximité</h3>
+
+    <div id="FaG-step1">
+        <h4>Étape 1 : Définissez le monument visité</h4>
+        <div class="FaG-locate">
+            Double-clic sur la carte:<br>
+			Vous pouvez saisir ou ajuster la position géographique :<br>
+            <label for="FaG-lat">Latitude  :</label>
+            <input id="FaG-lat" class="FaG-coord" name="lat" type="number" min="-85" max="85" step="0.00001">
+            <label for="FaG-lon">Longitude :</label>
+            <input id="FaG-lon" class="FaG-coord" name="lon" type="number" min="-180" max="180" step="0.00001">
+            <br><output id="FaG-address" class="FaG-Feedback"></output>
+        </div>
+    </div>
+
+    <div id="FaG-step2">
+        <h3>Étape 2 : Ce geolocalisre</h3>
+        <div >
+		     
+            <label for="Geo-lat">Latitude  :</label>
+            <input id="Geo-lat" class="FaG-coord" name="lat" type="number" min="-85" max="85" step="0.00001">
+            <label for="GEO-lon">Longitude :</label>
+            <input id="GEO-lon" class="FaG-coord" name="lon" type="number" min="-180" max="180" step="0.00001">
+			<button id="FaG-locate" class="FaG-locateGeolocBtn FaG-Btn" title="Me géolocaliser"></button><br>
+            <div id="FaG-feedbackPOI" class="FaG-Feedback"></div>
+			
+        </div>
+    </div>
+
+    <div id="FaG-step3" >
+        <h3>Étape 3 : Verification</h3>
+        <div class="FaG-route">
+		    <button id="FaG-query" class="FaG-searchBtn FaG-Btn" title="Verifier" style="margin-right: 180px;"></button>
+            <div id="FaG-feedbackRoute" class="FaG-Feedback"></div>
+        </div>
+    </div>

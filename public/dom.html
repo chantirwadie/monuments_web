@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<div class="FaG">
+    <h2 class="text-center">Entrer ou Chercher votre localisation</h2>
+
+    <div id="FaG-step1">
+        <div class="FaG-locate" Style="height: 300px;"width: calc(100% - 550px);">
+            <div class="container mr-1">
+
+                <label style="margin-bottom: 20px;font-family:Serif;">Double-clic sur la carte, adresse ou Geolocalisation :</label>
+                <br>
+                <label>Addresse :</label>
+                <input id="FaG-photon" class="form-control mr-3" type="number" min="-85" max="85" step="0.00001"
+                    placeholder="Enter addresse ">
+                <div style="margin-right: 30px;margin-left: 120px;margin-top: 12px;">
+                    <button id="FaG-locate" type="button" class="btn btn-outline-dark" title="Me g�olocaliser">Geolocalisation</button>
+                </div>
+
+                <br>
+            </div>
+
+            <div class="container bg-light m-1">
+                <label>Longitude :</label>
+                <input id="FaG-lat" class="form-control" name="lat" type="number" min="-85" max="85" step="0.00001"
+                    placeholder="Enter Latitude ">
+
+            </div>
+            <div class="container m-1">
+                <label>latitude :</label>
+                <input id="FaG-lon" class="form-control" name="lon" type="number" min="-180" max="180" step="0.00001"
+                    placeholder="Enter Latitude ">
+            </div>
+
+            <br>
+            <div class="container m-1">
+                <div class="alert alert-dark" role="alert">
+                     <p id="FaG-address" class="FaG-Feedback"></p>
+                  </div>
+
+            </dir>
+            
+        
+        </div>
+    </div>
+    
+    
+
+</div>
