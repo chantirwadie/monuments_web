@@ -1,0 +1,768 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uECnAc7ePkeS9M4D_O6kCaqv0Jk_x3ksEE1vDQNSq_kofn9U81op3BPYOv4nzXjo2PDTeWmppb9JyPSMdaYcuRvGoN4lfjC-fa5vA2v4wYqLx3hEQ1gQ9S2j_faU7MfkVmKyIMWRf8s-OrIbFrO_Qf3WRfF0OFfEKtv1NGGny0hYiAhomyV2Vnx2inB3yRcNc1K0ZCbZcakiSVUhNXm1UUrgKvHFBCDKVsy4sHYxMwH2jk8F9XLrFIE1a5BlTXmLzctFqae8a4wUkmMF4znQIiYfwtWXRVHaaXg-o9w9eMNrFT2deqGc2zWg4V3mTsXhdgCjgMdMRTjsGiuMDb-b8_0y7LMA79t7vCVYyAo0CKYDXMGovqZtUgC_-tUKAXXpPy6r40U2X048pERLyj8Raj_rtrS3pxkjQ_As4LuW2zabmzZ_K0RSRie8Ng",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.2438036,
+               "lng" : -8.522852900000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2452325802915,
+                  "lng" : -8.521579169708501
+               },
+               "southwest" : {
+                  "lat" : 33.2425346197085,
+                  "lng" : -8.524277130291505
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Big industrie",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112587375747520472464\"\u003eRegragui Samir\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECQmy60iS_kz2FE1ksI_ZpNrcyJwY_wZUdsM2eknd2FHHw0BbYOqCZLsvtPjlVJ9YHzBdXq2fe8F8v1OMMS1PgpXAGDRjWRvdXTlMTwz3seV96hB0uSh8tpWrIpy8iDPOvHgugtWSH2_zLiSR2TTfP4l6QdooxA5rwo82C1nrqSPtGv",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJSzhL1NMdqQ0R7Z2GVfJOpk0",
+         "rating" : 4,
+         "reference" : "ChIJSzhL1NMdqQ0R7Z2GVfJOpk0",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "6FVG+GVC, El Jadida"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.2281458,
+               "lng" : -8.503015299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2295001802915,
+                  "lng" : -8.501677669708497
+               },
+               "southwest" : {
+                  "lat" : 33.2268022197085,
+                  "lng" : -8.504375630291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "pharmacie al adarissa",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJU9kerw0eqQ0Rl6zjV4liGHA",
+         "rating" : 3,
+         "reference" : "ChIJU9kerw0eqQ0Rl6zjV4liGHA",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "6FHW+7Q5, El Jadida"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.2467679,
+               "lng" : -8.5084369
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2481211302915,
+                  "lng" : -8.507068569708496
+               },
+               "southwest" : {
+                  "lat" : 33.2454231697085,
+                  "lng" : -8.5097665302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "SMS PARA",
+         "place_id" : "ChIJq5OBI90dqQ0RaYRC2VT5TVw",
+         "plus_code" : {
+            "compound_code" : "6FWR+PJ El Jadida, Morocco",
+            "global_code" : "8C5H6FWR+PJ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJq5OBI90dqQ0RaYRC2VT5TVw",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Rue Al Farabi, El Jadida"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.23744219999999,
+               "lng" : -8.518157699999998
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.23881078029149,
+                  "lng" : -8.516879119708495
+               },
+               "southwest" : {
+                  "lat" : 33.2361128197085,
+                  "lng" : -8.5195770802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Atlas",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106290611592092407886\"\u003eSaaid Kouchi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC5ghDZvawGmP0FGu7x3ME0Qqwbe27z--8YQFPy6PVBSULhVLqDVQ9_q_Bz1uU5nPl_uhKqTPoHecpZvinkOuLMiaWzI_a6nb0v9ad87tYPIbq1WoongzJVdI4PCWHDQVNCDBGdaHfcLPsRMLbaOQos8mGgewDjxQrAXzIFvzqGX2qc",
+               "width" : 528
+            }
+         ],
+         "place_id" : "ChIJ7aVPk9cdqQ0RkhjrQib8EbE",
+         "plus_code" : {
+            "compound_code" : "6FPJ+XP El Jadida, Morocco",
+            "global_code" : "8C5H6FPJ+XP"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ7aVPk9cdqQ0RkhjrQib8EbE",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "El Jadida"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.2307212,
+               "lng" : -8.552067799999998
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2320803302915,
+                  "lng" : -8.550615119708496
+               },
+               "southwest" : {
+                  "lat" : 33.2293823697085,
+                  "lng" : -8.553313080291501
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie Sidi Bouzid",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116339693230695837537\"\u003eMohamed Ibnsaad\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA-gIYlwBeLQ4l3T9SaSQGn0M_f7BVooSeNt12g3ogCya1ettcG7n5U6VnNrX5jayMryajmiTtGFxg5IUoRSeygcqT4kLPl__9VCSmCWAgdNfuFYYR2DlULVwz-vilJe9tzy9W6N4FoU3L8L2H6wKVURlLhqKzJcGTmc_BQQFaZTJlX",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJDczakcEdqQ0RjIrEgEmJiEU",
+         "plus_code" : {
+            "compound_code" : "6CJX+75 Sidi Bouzid, Morocco",
+            "global_code" : "8C5H6CJX+75"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJDczakcEdqQ0RjIrEgEmJiEU",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "C. Com. De Sidi Bouzid, 24000"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.244304,
+               "lng" : -8.463987999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2456392802915,
+                  "lng" : -8.462634169708496
+               },
+               "southwest" : {
+                  "lat" : 33.2429413197085,
+                  "lng" : -8.4653321302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie Elmohit",
+         "place_id" : "ChIJXzFaOR_iqA0RIlOON7wIyA4",
+         "plus_code" : {
+            "compound_code" : "6GVP+PC El Jadida, Morocco",
+            "global_code" : "8C5H6GVP+PC"
+         },
+         "rating" : 5,
+         "reference" : "ChIJXzFaOR_iqA0RIlOON7wIyA4",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "124, Av. Mohamed Vi Ex. Jamia Alarabia, 24000, El Jadida"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.22991909999999,
+               "lng" : -8.470496899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.23131463029149,
+                  "lng" : -8.469111519708498
+               },
+               "southwest" : {
+                  "lat" : 33.22861666970849,
+                  "lng" : -8.471809480291503
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "الصيدلية الكبرى للحوزية PHARMACIE gronde ELHAWZIA",
+         "photos" : [
+            {
+               "height" : 490,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113533912337400340731\"\u003eAmsed pro\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAkucmzJU-QbDatT_P66d64vVXhWDlW-0Jzp_ZLuswmf0C24zDM97OLzr0W4ctPAuGygHuYiGAG1Sh5F9l6duRJ9d2kOdAeRxA89cL1RZuX7xQyW6W-xXBk2-TDow8pf7K3JIvJOqfus97Rh7FwgSzU-MFUF_9_rVc5udw26LSeJPOl",
+               "width" : 586
+            }
+         ],
+         "place_id" : "ChIJlaPvlwvhqA0R7Z-7-xlkjkA",
+         "plus_code" : {
+            "compound_code" : "6GHH+XR El Jadida, Morocco",
+            "global_code" : "8C5H6GHH+XR"
+         },
+         "rating" : 5,
+         "reference" : "ChIJlaPvlwvhqA0R7Z-7-xlkjkA",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "P3408, El Jadida"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.2355335,
+               "lng" : -8.4775185
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2368533802915,
+                  "lng" : -8.476171819708497
+               },
+               "southwest" : {
+                  "lat" : 33.2341554197085,
+                  "lng" : -8.478869780291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie ELKAWASSIM صيدلية القواسم",
+         "place_id" : "ChIJZxWtRiLhqA0RWNYZtU4Ertc",
+         "plus_code" : {
+            "compound_code" : "6GPC+6X El Jadida, Morocco",
+            "global_code" : "8C5H6GPC+6X"
+         },
+         "rating" : 5,
+         "reference" : "ChIJZxWtRiLhqA0RWNYZtU4Ertc",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Unnamed Road"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.236646,
+               "lng" : -8.481988099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.23775463029149,
+                  "lng" : -8.480779769708498
+               },
+               "southwest" : {
+                  "lat" : 33.2350566697085,
+                  "lng" : -8.483477730291503
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie ELHAMRAE",
+         "place_id" : "ChIJcaX4lBbhqA0R3v0HqcZ6YnQ",
+         "plus_code" : {
+            "compound_code" : "6GP9+M6 El Jadida, Morocco",
+            "global_code" : "8C5H6GP9+M6"
+         },
+         "rating" : 5,
+         "reference" : "ChIJcaX4lBbhqA0R3v0HqcZ6YnQ",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Route Douar Lachab, El Jadida"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.23269529999999,
+               "lng" : -8.481853299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.23408778029149,
+                  "lng" : -8.480477319708497
+               },
+               "southwest" : {
+                  "lat" : 33.23138981970849,
+                  "lng" : -8.483175280291501
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pharmacie AL wahat",
+         "photos" : [
+            {
+               "height" : 501,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113533912337400340731\"\u003eAmsed pro\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECWlK9t8jvujmoLlY-8ewXsYFMgyqGk4Adpqv2YCrumBqmZcMKKKpc3G1u9DtRKrA-aynSOJ4Asz2zho7Y5GS5pkr4GJuSmPubZ1zhbo-5wcZpE8D61MXI6AplrQDzhmSFT_kyAvswPHNwQfkgPFkxFBB5MxTt28Jj27LNbAHODyHuX",
+               "width" : 980
+            }
+         ],
+         "place_id" : "ChIJqSS0IE_hqA0RlodEDcE8roI",
+         "plus_code" : {
+            "compound_code" : "6GM9+37 El Jadida, Morocco",
+            "global_code" : "8C5H6GM9+37"
+         },
+         "rating" : 5,
+         "reference" : "ChIJqSS0IE_hqA0RlodEDcE8roI",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Madinat Al Irfane, 3 lotissement, El Jadida"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.243848,
+               "lng" : -8.4868735
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2453057302915,
+                  "lng" : -8.485526069708499
+               },
+               "southwest" : {
+                  "lat" : 33.24260776970851,
+                  "lng" : -8.488224030291503
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie Liban",
+         "place_id" : "ChIJEfaa9nUdqQ0RHg39uC4KMcs",
+         "rating" : 3,
+         "reference" : "ChIJEfaa9nUdqQ0RHg39uC4KMcs",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "6GV7+G7J, El Jadida"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.2382313,
+               "lng" : -8.486146
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2394995302915,
+                  "lng" : -8.484829169708497
+               },
+               "southwest" : {
+                  "lat" : 33.2368015697085,
+                  "lng" : -8.487527130291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "California",
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108290760769069906205\"\u003enabil bella\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA2biDUhhVR6W2Obbc70nfYU_tzZackCOvjXT5tWiiqw8hUBHgrZwR95J9CwtQk00CA95VDry-v11WvvrfcEHsWj9-Y-dfK3zp2Z5lDcXIOVl2_3iGLkCrMC7mI1ifpqfevc6QFk9Saegk2TkW4b_kmfR-MP8IZtwCNZ4W0jyWddwny",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJg_N-ROodqQ0RQtCB1WOef6c",
+         "plus_code" : {
+            "compound_code" : "6GQ7+7G El Jadida, Morocco",
+            "global_code" : "8C5H6GQ7+7G"
+         },
+         "reference" : "ChIJg_N-ROodqQ0RQtCB1WOef6c",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "Villa numéro 7 premier étage, Avenue Al Massira Al Khadra, El Jadida"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.2289223,
+               "lng" : -8.4817216
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2302667302915,
+                  "lng" : -8.480380569708498
+               },
+               "southwest" : {
+                  "lat" : 33.2275687697085,
+                  "lng" : -8.483078530291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "pharmacie",
+         "place_id" : "ChIJZZCR3X7hqA0R92I6lLh2kao",
+         "plus_code" : {
+            "compound_code" : "6GH9+H8 El Jadida, Morocco",
+            "global_code" : "8C5H6GH9+H8"
+         },
+         "reference" : "ChIJZZCR3X7hqA0R92I6lLh2kao",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "11, El Jadida"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.2280521,
+               "lng" : -8.4816123
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2294058302915,
+                  "lng" : -8.480356819708497
+               },
+               "southwest" : {
+                  "lat" : 33.2267078697085,
+                  "lng" : -8.483054780291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "pharmacie lafrique",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115793008023804516220\"\u003epharmacie lafrique\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBl3pB6KQIgm_pQEHdyLLliUrwtXLu75zKb5ekL_l6ZKmOmHPSJllG7HyWCq0yIxFLmUqSKCNsxEhgkSEIMwaeJSPmyWYxFlfkp_I51bW6Rmjhf-7Vm20iZwVrbQ9VoOxrlUcv7klDeq2UyAI-NWz0ltYSJ-tPEMFjLunwoxBgKY2zN",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJP8-BuoMfqQ0RwUczVTLUCu8",
+         "plus_code" : {
+            "compound_code" : "6GH9+69 El Jadida, Morocco",
+            "global_code" : "8C5H6GH9+69"
+         },
+         "reference" : "ChIJP8-BuoMfqQ0RwUczVTLUCu8",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "lot ennakhil, centre commercial N11"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.2354074,
+               "lng" : -8.487205699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.23674293029149,
+                  "lng" : -8.485867469708499
+               },
+               "southwest" : {
+                  "lat" : 33.23404496970849,
+                  "lng" : -8.488565430291503
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "pharmacie Almasjid",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJP92B3-sfqQ0RP6cBA42NKk0",
+         "plus_code" : {
+            "compound_code" : "6GP7+54 El Jadida, Morocco",
+            "global_code" : "8C5H6GP7+54"
+         },
+         "rating" : 5,
+         "reference" : "ChIJP92B3-sfqQ0RP6cBA42NKk0",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Unnamed Road"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.22804560000001,
+               "lng" : -8.481633199999997
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.22939883029151,
+                  "lng" : -8.480367519708496
+               },
+               "southwest" : {
+                  "lat" : 33.22670086970851,
+                  "lng" : -8.483065480291501
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "pharmacie lafrique",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116005741573381169011\"\u003eYacine Aasli\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDu8F9U6DMhGulPV338XF0vqZa7xXgJ6TpIrvwOmlRKFQyHithipsgUn6mh67x12CQmX91YNFJmnYvtvvOsYKQsthAvKFMFcxEVLvXOQhc_vQx0qrLqA_LZDE64Q0PL82Da4O-TTEB5zmq5KSpv9aPsdD8cL_tZoVWivc2eU8flJ7wT",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJsSd2OZfhqA0RiUgqmjwq2ps",
+         "plus_code" : {
+            "compound_code" : "6GH9+68 El Jadida, Morocco",
+            "global_code" : "8C5H6GH9+68"
+         },
+         "rating" : 5,
+         "reference" : "ChIJsSd2OZfhqA0RiUgqmjwq2ps",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Lot ennakhil, centre commercial N11, El Jadida"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.2321631,
+               "lng" : -8.4865154
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2334760802915,
+                  "lng" : -8.4851450697085
+               },
+               "southwest" : {
+                  "lat" : 33.2307781197085,
+                  "lng" : -8.487843030291504
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie AL BOUSTANE",
+         "place_id" : "ChIJG7x7T-0fqQ0RN2qojNiNMrc",
+         "plus_code" : {
+            "compound_code" : "6GJ7+V9 El Jadida, Morocco",
+            "global_code" : "8C5H6GJ7+V9"
+         },
+         "reference" : "ChIJG7x7T-0fqQ0RN2qojNiNMrc",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "Avenue Khalil Jabran, El Jadida"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.2320948,
+               "lng" : -8.486629900000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.23341018029149,
+                  "lng" : -8.485222469708498
+               },
+               "southwest" : {
+                  "lat" : 33.2307122197085,
+                  "lng" : -8.487920430291503
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "parasilia",
+         "place_id" : "ChIJJVmBLgIeqQ0RCR8eEb_BYao",
+         "plus_code" : {
+            "compound_code" : "6GJ7+R8 El Jadida, Morocco",
+            "global_code" : "8C5H6GJ7+R8"
+         },
+         "reference" : "ChIJJVmBLgIeqQ0RCR8eEb_BYao",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "Avenue Khalil Jabran, El Jadida"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.23484750000001,
+               "lng" : -8.489391500000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2362255802915,
+                  "lng" : -8.488020619708498
+               },
+               "southwest" : {
+                  "lat" : 33.2335276197085,
+                  "lng" : -8.490718580291501
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie El Fadi",
+         "place_id" : "ChIJvzhfQoEfqQ0RL_0YEZ6vc18",
+         "plus_code" : {
+            "compound_code" : "6GM6+W6 El Jadida, Morocco",
+            "global_code" : "8C5H6GM6+W6"
+         },
+         "reference" : "ChIJvzhfQoEfqQ0RL_0YEZ6vc18",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "164.lotissement sidi M'ghar. Wifak. Témara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.2216263,
+               "lng" : -8.476590999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2228651802915,
+                  "lng" : -8.475312419708498
+               },
+               "southwest" : {
+                  "lat" : 33.2201672197085,
+                  "lng" : -8.478010380291503
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie Elghorba",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100893639605257668670\"\u003eamine gp2\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC7YH1TjmoDS0gj9rN6tJHhTZ-SaF2eI1xZv_iVRs8z8c_1IGofBwZT8D669nmVltJP-_HudzMfQJ03hDrMc2K9AB7QoGA0qU3uiEsUCjC4q6GH5lWUWX7v8llErOe5w7ZZmbqjtf15AUetHX17eOQG_udVqTv0tlwmI-zyl5DteyUZ",
+               "width" : 810
+            }
+         ],
+         "place_id" : "ChIJDczakcEdqQ0RIOS0x7Rc8f8",
+         "plus_code" : {
+            "compound_code" : "6GCF+M9 El Jadida, Morocco",
+            "global_code" : "8C5H6GCF+M9"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJDczakcEdqQ0RIOS0x7Rc8f8",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Douar Elghorba, Rte. Ouled Hamdan, 24000, El Jadida"
+      }
+   ],
+   "status" : "OK"
+}
