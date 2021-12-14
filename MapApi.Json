@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Pharmacie Rabii",
+        "address": "via comoedia, 5, 22016 Tremezzina CO, Italy",
+        "icon":"https://milettepharmacie.com/wp-content/uploads/2019/07/Photo-principale.jpg",
+        "lat": "33.258523",
+        "lng": "-8.514164"
+    },
+    {
+        "name": "Pharmacie Ibn Sina",
+        "address": "زنقة إبن سينا, El Jadida, El Jadida, Maroc ",
+        "icon":"https://milettepharmacie.com/wp-content/uploads/2019/07/Photo-principale.jpg",
+        "lat": "33.259071",
+        "lng": "-8.51153"
+    },
+    {
+        "name": "Pharmacie Bouhafid",
+        "address": "شارع الفقيه محمد الريفي, الجديدة, الجديدة, Maroc",
+        "icon":"https://milettepharmacie.com/wp-content/uploads/2019/07/Photo-principale.jpg",
+
+        "lat": "33.255951",
+        "lng": "-8.511461"
+    },
+    {
+        "name": "Pharmacie Doukkala",
+        "address": "زنقة فرنسا, الجديدة, الجديدة, Morocco",
+        "icon":"https://milettepharmacie.com/wp-content/uploads/2019/07/Photo-principale.jpg",
+        "lat": "33.250401",
+        "lng": "-8.50405"
+    },
+    {
+        "name": "Hotel Danieli",
+        "address": "Castello, 4196, 30122 Venezia VE, Italy",
+        "icon":"https://milettepharmacie.com/wp-content/uploads/2019/07/Photo-principale.jpg",
+        "lat": "45.4338669",
+        "lng": "12.3399006"
+    },
+    {
+        "name": "Hotel Cala Di Volpe",
+        "address": "Costa Smeralda, 07020 Porto Cervo, OT, Italy",
+        "icon":"https://milettepharmacie.com/wp-content/uploads/2019/07/Photo-principale.jpg",
+        "lat": "41.0902363",
+        "lng": "9.5387878"
+    }
+]
