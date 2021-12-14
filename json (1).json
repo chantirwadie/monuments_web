@@ -1,0 +1,848 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEC84ocLG0WPuAWEtClpXpErMOCOrQQJOBINopTkFv6GyVts9T2f4_WWPJ8xePiqchw3e2-vMHe6qywFHvbGIEgt0lZFNSmMeRilaHIyYmX9VocUxSc40EBSZkdPPp5DrNmYcKNAD-Hn9HhalUo-rnz6iVzVEbFotvb4fZtx6N2ySlUVKp0U3ivr5BTWjSpsj1JIOOEM3wQSRS80ifDVPUfsyO0R48SB6lJdLe5JeT4lZaKZ_w0gzX9ah_kbfWZbh7FHE_fryXeC3PorSnfi_jqZjGnoGwRak2juddxJOB0iBi2_LYR7v-GNObGCp1YmQi6elkVXIgr31P3UCrh2b28n5RvD2k_y1WwwRK7RH7K_XydIxjJmvXKHyZdoPMpnPXfD8rLzvbxzVegPjJ7lEOIa-oCbAKrDm-Ukjo2IVaphh4xTtHiaZ_QJPA",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.65167660000001,
+               "lng" : -8.016875899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6529979302915,
+                  "lng" : -8.015491019708497
+               },
+               "southwest" : {
+                  "lat" : 31.65029996970851,
+                  "lng" : -8.018188980291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie Sup De Co",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2356,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111446216112143283920\"\u003ePharmacie Sup De Co\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC-uM3-A741n69DmsdiAdChZ75BwOAtpK5vw83Y1nbyCGAsH7i00suEdzKhnoGc2JJOKVqZwwW_GD4N98kuyJs6eak7aYV9vxILuhXHHCbA7PIt_KkdoULmnysIcEhf-CnRuQxmOAFyeLGA8IDCDu3QexLfZK1GbLvG-HwNekMJaqIb",
+               "width" : 4192
+            }
+         ],
+         "place_id" : "ChIJr7wqCSfsrw0RLi4k4iYmt2c",
+         "plus_code" : {
+            "compound_code" : "MX2M+M6 Marrakesh, Morocco",
+            "global_code" : "8C3HMX2M+M6"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJr7wqCSfsrw0RLi4k4iYmt2c",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 55,
+         "vicinity" : "N°26, Avenue de Safi Résidence Youssef Ben Tachfine, Marrakech"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.6498072,
+               "lng" : -8.004085099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6511530802915,
+                  "lng" : -8.002739419708499
+               },
+               "southwest" : {
+                  "lat" : 31.6484551197085,
+                  "lng" : -8.005437380291504
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie Al Qods",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 5111,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117098367910346726775\"\u003ePharmacie Al Qods\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECAUKV7tTDsN9ki8kgwDLfqMd7SZL__FVTtQozV-0yaIS3O5EMh3teGHJIv7h_GH2a0FtSHmbIRup7BzJfBvjfw69Cj3yR2MF2EIy8nPBdiSKufPN0oMXC8z48frsZTT5TRAPA-chk36dbfN6izwrfz0vaZTwIkLNuMrV0B_jCLCOaN",
+               "width" : 4312
+            }
+         ],
+         "place_id" : "ChIJyaF-WX7urw0RCHWvyyNpkGs",
+         "plus_code" : {
+            "compound_code" : "JXXW+W9 Marrakesh, Morocco",
+            "global_code" : "8C3HJXXW+W9"
+         },
+         "rating" : 5,
+         "reference" : "ChIJyaF-WX7urw0RCHWvyyNpkGs",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Boulevard Allal Al Fassi, Marrakech"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.65146679999999,
+               "lng" : -8.019954799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.65283098029149,
+                  "lng" : -8.018657519708498
+               },
+               "southwest" : {
+                  "lat" : 31.65013301970849,
+                  "lng" : -8.021355480291501
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "PHARMACIE VOLUBILIS",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJy8WtyCDsrw0Rpu5it5BKJe8",
+         "plus_code" : {
+            "compound_code" : "MX2J+H2 Marrakesh, Morocco",
+            "global_code" : "8C3HMX2J+H2"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJy8WtyCDsrw0Rpu5it5BKJe8",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Imm. El Baraka 1, Boulevard Abdelkrim Al Khattabi, Marrakech"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.6527311,
+               "lng" : -7.9935059
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6540815302915,
+                  "lng" : -7.992074869708498
+               },
+               "southwest" : {
+                  "lat" : 31.6513835697085,
+                  "lng" : -7.994772830291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie Razi",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101819782560863091251\"\u003eauto filali\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBhR-9ML_lUqyr0V4YHb2ILoXLzFCbxEB9A_Z-Djoiiv05gTteeH98HiJxdfDcd3k3JWFb2gh11aVtZS1hcrcF9gCjIaUth2lp3v1ina0NS8r9MCxS8FbFOlrJjCijLvJGsXMBeZO_w5EqMVoJGBnLY3USEhSTjuJXSqJXu-HAyxV2_",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ9VR2bHjurw0R5aUZschLz-I",
+         "rating" : 4.4,
+         "reference" : "ChIJ9VR2bHjurw0R5aUZschLz-I",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "M234+3HX, Marrakesh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.6751411,
+               "lng" : -8.020097399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6764559302915,
+                  "lng" : -8.018759219708496
+               },
+               "southwest" : {
+                  "lat" : 31.6737579697085,
+                  "lng" : -8.021457180291501
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "دار لكرا 36",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJs6z22EDsrw0RmKFJ3NHPfKA",
+         "rating" : 5,
+         "reference" : "ChIJs6z22EDsrw0RmKFJ3NHPfKA",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "MXGH+3X2, Marrakesh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.6714001,
+               "lng" : -8.0367204
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6727169302915,
+                  "lng" : -8.035418569708497
+               },
+               "southwest" : {
+                  "lat" : 31.6700189697085,
+                  "lng" : -8.038116530291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Mecca Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ8SCxtHLsrw0Rd8-7KmAaTVU",
+         "rating" : 4,
+         "reference" : "ChIJ8SCxtHLsrw0Rd8-7KmAaTVU",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "MXC7+H86, Marrakesh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.65978459999999,
+               "lng" : -8.005903399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6610751302915,
+                  "lng" : -8.004671819708497
+               },
+               "southwest" : {
+                  "lat" : 31.6583771697085,
+                  "lng" : -8.007369780291501
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie Al Imam Malek",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2003,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107041220539724472801\"\u003ePharmacie Al Imam Malek\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA5UMujlkr19a-ghR_GDS6Eke6-CqoqFd7k6gcX5lFaEB9A0kr_H_WIt6mAHOCj0vewUx-eSskNcZ4I7onb2UijqvZta-mHjCKM00o1BEPtuDlVh9UKsoTBFwMrvCK-xdy13C_DqL1JKAJLr3yGvdAIPqbKD0pA-TuMOLMiIeD0fFhW",
+               "width" : 2002
+            }
+         ],
+         "place_id" : "ChIJtZpUry3srw0RdibXe-eYaiA",
+         "plus_code" : {
+            "compound_code" : "MX5V+WJ Marrakesh, Morocco",
+            "global_code" : "8C3HMX5V+WJ"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJtZpUry3srw0RdibXe-eYaiA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "pharmacy",
+            "shoe_store",
+            "doctor",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 13,
+         "vicinity" : "Boulevard Allal Al Fassi, Marrakech"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.66965009999999,
+               "lng" : -8.006925000000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6709487302915,
+                  "lng" : -8.005510619708497
+               },
+               "southwest" : {
+                  "lat" : 31.6682507697085,
+                  "lng" : -8.008208580291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "صيدلية الوفاق",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117767076394703593091\"\u003eBajja Abdelali\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECWEqB4anSxKuZZOMA9VQKWjuGftPTmVyfTzpGJ0WkobKOjIikFVuI_vuGw2CnYBLKEB2NlySx52AAvWuFvqSLqt4ii84LJS_X-o-GXlTdNUwuyZJkTveI8FyhaGnVZmeXKSm5KXYGJY1i2dOkJj94QpFh5MtIKr5uqskf6VG2c9Qmc",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ1QEJSDTsrw0R2cDiwHNuXF4",
+         "plus_code" : {
+            "compound_code" : "MX9V+V6 Marrakesh, Morocco",
+            "global_code" : "8C3HMX9V+V6"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ1QEJSDTsrw0R2cDiwHNuXF4",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Avenue Errazi, Marrakech"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.6743781,
+               "lng" : -8.010297
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6757568802915,
+                  "lng" : -8.008921369708498
+               },
+               "southwest" : {
+                  "lat" : 31.67305891970851,
+                  "lng" : -8.011619330291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie Nakhil Saada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 891,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113489542200937340020\"\u003ePharmacie Nakhil Saada\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC9ojNcWrLPqus3v_mp_y83cPOJBWSiWpavOm1jnWx5Fs4o0G6SY5bGtZTaigrFSRx2uoGRAVmVLfkcD1ATH9qIYmsiEwFnSnglnTpcOs9hwOhcvBS__n088zz3ZLCZBcbCkN-UV80NGOO5_M8Zo2huW-1UgWJX9pV7u0wSbrQv7uHa",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJD6U88lXtrw0R0DzsMUtRHRc",
+         "plus_code" : {
+            "compound_code" : "MXFQ+QV Marrakesh, Morocco",
+            "global_code" : "8C3HMXFQ+QV"
+         },
+         "rating" : 5,
+         "reference" : "ChIJD6U88lXtrw0R0DzsMUtRHRc",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Résidence dyar annakhil . Imm 3 n 7 , bloc b . Annakhil Saada Marrakech"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.6727292,
+               "lng" : -8.013542199999998
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6741105802915,
+                  "lng" : -8.012249919708497
+               },
+               "southwest" : {
+                  "lat" : 31.67141261970851,
+                  "lng" : -8.014947880291501
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "My Aura (Sweet Para)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJMWRbSKftrw0RVIZW82xRSNI",
+         "rating" : 5,
+         "reference" : "ChIJMWRbSKftrw0RVIZW82xRSNI",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "MXFP+3HW, Marrakesh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.672436,
+               "lng" : -8.013761500000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6738197302915,
+                  "lng" : -8.012473369708497
+               },
+               "southwest" : {
+                  "lat" : 31.6711217697085,
+                  "lng" : -8.015171330291501
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "PHARMACIE ASAFAR",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117767076394703593091\"\u003eBajja Abdelali\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDCHLBqD33QgyUsvQ0U0Q0JmBEK9YO8MJ6Hms9AiVnzxN-meRQ4OFPOVWEjHIBWA6PHqff6HZnBudRBd1xE4T8dI8Qv_nJm8ByyYEF5DebF84EZxkmNRgyMdvznEWhrs5eVjuuZXV62NHMY9JSdl7hW2x9y9JexC2m62FRKImVaAHjS",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJdz_7ATjsrw0RdmAAYi3ijE0",
+         "plus_code" : {
+            "compound_code" : "MXCP+XF Marrakesh, Morocco",
+            "global_code" : "8C3HMXCP+XF"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJdz_7ATjsrw0RdmAAYi3ijE0",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Résidence Dar Saâda, Imm. 138 Mag. N°6, Boulevard Allal Al Fassi, Marrakech"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.666849,
+               "lng" : -8.008191
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.66816938029149,
+                  "lng" : -8.006901919708499
+               },
+               "southwest" : {
+                  "lat" : 31.6654714197085,
+                  "lng" : -8.009599880291503
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacy palaces",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117767076394703593091\"\u003eBajja Abdelali\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAivEAX6vgKFwyJLX4UOjYL9CfLGPOJkexmgkHRdHRIiZh-J5tNaCp8j-521WH7ER6tNBXbi2E0t2Gip8RZvFgrpq1G4P4Rh-q1sfZTqDJoE56nWfnBpwcKfXDLluPRV5reKk5LjTMrzNGWt1aGrEct5nS8BQTGSyclUdns-ybxtwXm",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJS4Ec_TPsrw0ROcPSAQb2ejc",
+         "plus_code" : {
+            "compound_code" : "MX8R+PP Marrakesh, Morocco",
+            "global_code" : "8C3HMX8R+PP"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJS4Ec_TPsrw0ROcPSAQb2ejc",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Avenue Errazi, Marrakech"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.668191,
+               "lng" : -8.0128383
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6695218802915,
+                  "lng" : -8.011382969708498
+               },
+               "southwest" : {
+                  "lat" : 31.6668239197085,
+                  "lng" : -8.014080930291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie Marjane",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106741055837304352934\"\u003eguide google pro\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBipNEprMbAH3msZl7gTlO-9PqsMHOe-t5SCNZ-N-NwRr9Yfh5FSBy4KA_3zhdenrzMgnzN51n1Lhj3JelMH1ifEBYwmN4NAGH-7T9t8SxQ91gyLeNBYXBQZRZyW2m0jIGm0JulqJV5U0QKQgfcIcAxxOkHW5IpwJZitir27wWjrehE",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJRXjDsjDsrw0R8QKb_MkI_qA",
+         "plus_code" : {
+            "compound_code" : "MX9P+7V Marrakesh, Morocco",
+            "global_code" : "8C3HMX9P+7V"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJRXjDsjDsrw0R8QKb_MkI_qA",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "centre commercial Marjane, Marrakech"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.6733204,
+               "lng" : -8.0151094
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.67464643029149,
+                  "lng" : -8.013780819708497
+               },
+               "southwest" : {
+                  "lat" : 31.6719484697085,
+                  "lng" : -8.016478780291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "PARA Pharmacie",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ26NNo2Ttrw0RzqeaNjmnfsM",
+         "reference" : "ChIJ26NNo2Ttrw0RzqeaNjmnfsM",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "MXFM+8XC, Marrakesh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.6772218,
+               "lng" : -8.0121365
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6785654302915,
+                  "lng" : -8.010778569708497
+               },
+               "southwest" : {
+                  "lat" : 31.6758674697085,
+                  "lng" : -8.013476530291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie nouarat marjane",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 696,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109655743792103210019\"\u003eYassin BOUGHABA\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAuJD9vUHGNmvqcLlIEJR6iKpfGT_L0KuIRMcaiyHPSgn4J-n8k5mMJ8nwzNzCxeOGyYmNOtIvxQ1sdtvBLs1fE8PtMC0CtoxhFVQ2I4msEkId4psAvG4qkAyFGet5JrGiLef8Gs8c0qrGgTOaDTUR87heToCmxMOSTocIEDxFjN0Y",
+               "width" : 754
+            }
+         ],
+         "place_id" : "ChIJiRzHTwztrw0R4b-1cxK7y24",
+         "plus_code" : {
+            "compound_code" : "MXGQ+V4 Marrakesh, Morocco",
+            "global_code" : "8C3HMXGQ+V4"
+         },
+         "rating" : 4,
+         "reference" : "ChIJiRzHTwztrw0R4b-1cxK7y24",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Unnamed Road, Marrakech"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.6676332,
+               "lng" : -8.0026519
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.66897453029149,
+                  "lng" : -8.001297319708499
+               },
+               "southwest" : {
+                  "lat" : 31.6662765697085,
+                  "lng" : -8.003995280291504
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie Shama",
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105795709720268235968\"\u003ePATRICK DANIEL\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAcO9ZE5jyaXfpc4eqV69PIGl09CnkLNdK40BJv8KkTecG4mDkwkNZAM2NC5nGTVsxDW_irLUBr2tpb-uDR7k0MqMY_cHzPQeeCktLNo5wUmisGtb7AQdLLyWaDR2IyIUO4gdCr9AoZcsdKus-Lnhb0A15C0QdW4plbFnkExRvf8Q37",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJczhJqsztrw0RFY3BcR7Wy4E",
+         "rating" : 5,
+         "reference" : "ChIJczhJqsztrw0RFY3BcR7Wy4E",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "MX9W+3W5, Marrakesh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.6777742,
+               "lng" : -8.0069491
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6791463302915,
+                  "lng" : -8.005703369708497
+               },
+               "southwest" : {
+                  "lat" : 31.67644836970851,
+                  "lng" : -8.008401330291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie Cité Yasmine",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJAbiplEvsrw0RLLvDTWMioe4",
+         "rating" : 3.8,
+         "reference" : "ChIJAbiplEvsrw0RLLvDTWMioe4",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "MXHV+463, Marrakesh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.6647057,
+               "lng" : -8.009271699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.66603278029149,
+                  "lng" : -8.007974419708498
+               },
+               "southwest" : {
+                  "lat" : 31.6633348197085,
+                  "lng" : -8.010672380291503
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Allal El Fassi Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100478330890617274862\"\u003eالأنصاري EL ANSARI\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBl8BIVusA7yxi3ZHfdZu_vVd3og_FNGDWghRL7xNqZCXP9nbAX5d-44DwBYHL2AKMEdsqgDChKsDnvwmUDYpBzXpXfKGp9gRN8BhD5Zqs3JYKWTBaS6lT0En_1Wb3vDQPfx7o-Svj8nWgK4JJIriqyPT87am2LQ363C85hp7Tsfj2s",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJSbMSdzHsrw0RKUL2wx0Jfi8",
+         "plus_code" : {
+            "compound_code" : "MX7R+V7 Marrakesh, Morocco",
+            "global_code" : "8C3HMX7R+V7"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJSbMSdzHsrw0RKUL2wx0Jfi8",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Boulevard Allal Al Fassi, Marrakech"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.6703045,
+               "lng" : -8.000416399999997
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6716010302915,
+                  "lng" : -7.999088319708496
+               },
+               "southwest" : {
+                  "lat" : 31.6689030697085,
+                  "lng" : -8.001786280291499
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie Health Crown",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1900,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113929617748748600831\"\u003ePharmacie Health Crown\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECIy7ehlaRySOGSAxdce3OG_CkP_o60IH3QSMMPj1Rjc9ZIiFAuRyfRN8Ku-FN0NlzuxHj5QqduLS4rBuE45hcWDqIKuY9Qj1VYKv6k0qaXLdyddbxmnIUdDQkbM_0-SgIJpsaRB00Zfh_Ol-AU-UywuFd99m7VOT0gf08DRmYXocq2",
+               "width" : 1900
+            }
+         ],
+         "place_id" : "ChIJEfgonGXtrw0RL-IKtkWFESg",
+         "plus_code" : {
+            "compound_code" : "MXCX+4R Marrakesh, Morocco",
+            "global_code" : "8C3HMXCX+4R"
+         },
+         "reference" : "ChIJEfgonGXtrw0RL-IKtkWFESg",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "Lotissement Tassila, Marrakech"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.676315,
+               "lng" : -8.0024915
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6776262802915,
+                  "lng" : -8.001137719708497
+               },
+               "southwest" : {
+                  "lat" : 31.6749283197085,
+                  "lng" : -8.003835680291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "Pharmacie Hôtel WAZO",
+         "place_id" : "ChIJCTGE4I_trw0RjAKhVPShIlc",
+         "plus_code" : {
+            "compound_code" : "MXGX+G2 Marrakesh, Morocco",
+            "global_code" : "8C3HMXGX+G2"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJCTGE4I_trw0RjAKhVPShIlc",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "la gauche, Hôtel appart. Wazo Bd. Abdelkrim Khattabi Rte de Casa vers la Station Ifriquia et Hôtel Ibis, juste avant l'Ecole Iraqui en allant vers Casa sur"
+      }
+   ],
+   "status" : "OK"
+}
